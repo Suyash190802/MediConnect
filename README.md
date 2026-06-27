@@ -1,16 +1,37 @@
-# React + Vite
+🩺 MediConnect – Full-Stack Healthcare Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MediConnect is a modern and responsive healthcare web application designed to simplify the process of exploring healthcare services and booking doctor appointments. The project features a clean, intuitive user interface and is being developed into a complete full-stack solution.
 
-Currently, two official plugins are available:
+🚧 Status: Frontend Completed | Backend Under Development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
+Responsive healthcare landing page
+Doctor profiles with specialization details
+Appointment booking interface
+Healthcare services section
+Patient testimonials
+Clean and modern UI
+Mobile-first responsive design
+Fast performance with Vite
 
-## React Compiler
+🚀 Upcoming Features
+User Authentication (JWT)
+Doctor & Patient Dashboards
+Appointment Scheduling & Management
+Admin Panel
+Secure RESTful APIs
+MongoDB Database Integration
+Email Notifications
+Role-Based Access Control
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+Frontend
+React.js
+Tailwind CSS
+Vite
+JavaScript (ES6+)
+Backend (In Progress)
+Node.js
+Express.js
+MongoDB
+Mongoose
